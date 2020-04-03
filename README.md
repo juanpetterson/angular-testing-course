@@ -1,5 +1,5 @@
-
 ## Angular Testing Course
+<img src="https://travis-ci.org/juanpetterson/angular-testing-course.svg?branch=master&status=passed" />
 
 # Installing the Angular CLI
 
